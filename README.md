@@ -37,6 +37,7 @@ To manually trigger the workflow:
 2. Select **Publish Helm Chart Workflow**  
 3. Click **Run Workflow**  
 
+do
 Once the workflow completes, your Helm Chart will be available via **GitHub Pages**.
 
 ---
