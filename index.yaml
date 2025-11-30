@@ -74,6 +74,17 @@ entries:
     urls:
     - https://mathiasejoh.github.io/springboot-helm-chart/helm-charts/mychart4-0.1.0.tgz
     version: 0.1.0
+  springboot:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2025-11-30T19:56:55.596489947Z"
+    description: A Helm chart for Kubernetes
+    digest: 90f17ae5f14abe525a898c6cb90e884469b6b1537b92cdadc36c8e710bd7d917
+    name: springboot
+    type: application
+    urls:
+    - https://github.com/mathiasejoh/springboot-helm-chart/releases/download/springboot-0.1.7/springboot-0.1.7.tgz
+    version: 0.1.7
   umsapp:
   - apiVersion: v2
     appVersion: 1.0.0
@@ -91,4 +102,4 @@ entries:
     urls:
     - https://mathiasejoh.github.io/springboot-helm-chart/helm-charts/umsapp-1.0.0.tgz
     version: 1.0.0
-generated: "2025-09-27T18:54:26.0757545-04:00"
+generated: "2025-11-30T19:56:55.596503141Z"
